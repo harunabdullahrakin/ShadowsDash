@@ -50,3 +50,12 @@ Shoutout to JOSH for some parts of his code.
 Oh ! And i'm also looking for paid work. If you like what I do, make sure to visit https://xshadow.xyz and send me an email. I would love to work with you !
 
 Take a free baguette 🥖
+
+
+## License
+
+This project was originally created by Xshadow and licensed under the GNU General Public License (GPL).
+
+All original rights reserved by the Xshadow. This version may contain modifications.
+
+See `LICENSE` for more details.
